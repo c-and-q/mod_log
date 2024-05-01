@@ -100,3 +100,4 @@ The goal of this story is:
 | Max TDP                           |     311 |                          |
 |                                   |         |                          |
                                            
+[XTU Profile](resources/Working.xtu)
