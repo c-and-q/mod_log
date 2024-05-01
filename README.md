@@ -98,6 +98,5 @@ The goal of this story is:
 | _Memory Stress_                   |         |                          |
 | Max CPU Temp                      |      93 |                          |
 | Max TDP                           |     311 |                          |
-|                                   |         |                          |
                                            
 [XTU Profile](resources/Working.xtu)
