@@ -113,10 +113,10 @@ Ambient temperature: 26°C
 
 ![cam_stress_CPU](images/cam_stress_cpu_avx2.jpg)
 
-![HwMonitor_stress_cpu_avx2](images/HwMonitor_stress_cpu_avx2.jpg)
+![HwMonitor_stress_cpu_avx2](images/HwMonitor_stress_cpu_avx2.png)
 
 ### Memory Stress Test
 
 ![cam_stress_memory](images/cam_stress_memory.jpg)
 
-![HwMonitor_stress_memory](images/HwMonitor_stress_memory.jpg)
+![HwMonitor_stress_memory](images/HwMonitor_stress_memory.png)
