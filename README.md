@@ -105,13 +105,18 @@ The goal of this story is:
 
 ### minimal load
 
-![minimal_load](images/minimal_load.jpg)
+Ambient temperature: 26°C
+
+![cam_minimal_load](images/cam_minimal_load.jpg)
 
 ### CPU Stress Test with AVX2
 
-![stress_CPU](images/stress_CPU.jpg)
+![cam_stress_CPU](images/cam_stress_cpu_avx2.jpg)
+
+![HwMonitor_stress_cpu_avx2](images/HwMonitor_stress_cpu_avx2.jpg)
 
 ### Memory Stress Test
 
-![stress_memory](images/stress_memory.jpg)
+![cam_stress_memory](images/cam_stress_memory.jpg)
 
+![HwMonitor_stress_memory](images/HwMonitor_stress_memory.jpg)
