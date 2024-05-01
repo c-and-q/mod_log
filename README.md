@@ -100,3 +100,18 @@ The goal of this story is:
 | Max TDP                           |     311 |                          |
                                            
 [XTU Profile](resources/Working.xtu)
+
+## Thermal camera images:
+
+### minimal load
+
+![minimal_load](images/minimal_load.jpg)
+
+### CPU Stress Test with AVX2
+
+![stress_CPU](images/stress_CPU.jpg)
+
+### Memory Stress Test
+
+![stress_memory](images/stress_memory.jpg)
+
