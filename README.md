@@ -18,6 +18,7 @@ Story of my PC modding
 | Cooling | 2x 14" fans (front) (fan in)                      | Fractal Design Dynamic X2 GP-14                                                     |
 | Cooling | 2x 12" fans (bottom) (fan in)                     | Fractal Design Dynamic X2 GP-12 PWM                                                 |
 | SSD     | 3x Samsung 980 PRO 2TB M.2                        | MZ-V8P2T0BW                                                                         |
+| PSU     | SeaSonic Prime TX-750 750W                        | PRIME-TX-750                                                                        |
 | System  | Windows 11                                        | 23H2                                                                                |
 
 ## BIOS settings
